@@ -1,2 +1,4 @@
 "add menus for enabling users to buy tickets for events"
 
+"update the app name dispayed to HST Tickets"
+
